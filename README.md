@@ -93,3 +93,6 @@ To improve the accuracy of license plate detection, you can fine-tune the YOLOv8
 
 ## License & Acknowledgements
 Built using Ultralytics YOLOv8, Streamlit, and EasyOCR.
+
+## Dataset
+https://drive.google.com/file/d/1WpOjFnPfj-tfmHrUaJ7ypQLUsFqrJhAx/view?usp=sharing
